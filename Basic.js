@@ -3,7 +3,7 @@
 // // ReactDOM.render(element, document.getElementById('root'));
 // //-------------------------------------
 // // const name = "priya";
-// // const element1 = <h1>Hello,Ms{name} </h1>;
+// // const element1 = <h1>Hello,Ms{name} </h1>
 
 
 // // function FormatUser(user) {
@@ -67,7 +67,7 @@
 function Employee() {
     return <h1>Hello Mohit</h1>;
 }
-ReactDOM.render(<Employee />, document.getElementById('root'))
+ReactDOM.render(<Employee />, document.getElementById('root'));
 
 
 
